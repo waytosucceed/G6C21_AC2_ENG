@@ -1,0 +1,279 @@
+[
+    {
+        "questionNo": "Q1.",
+        "question": "A full stop is used to end a question.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "correct": 1,
+        "explanation": "A full stop is used to end declarative sentences, not questions. Questions end with a question mark."
+    },
+    {
+        "questionNo": "Q2.",
+        "question": "Which punctuation mark is used to separate items in a list?",
+        "options": [
+            "Full stop",
+            "Comma",
+            "Exclamation mark",
+            "Question mark"
+        ],
+        "correct": 1,
+        "explanation": "Commas are used to separate items in a list."
+    },
+    {
+        "questionNo": "Q3.",
+        "question": "Fill in the blank: An _________ mark is used to show strong emotion or excitement. (! / ?)",
+        "options": [
+            "!",
+            "?"
+        ],
+        "correct": 0,
+        "explanation": "Exclamation marks (!) are used to express strong emotions, excitement, or emphasis."
+    },
+    {
+        "questionNo": "Q4.",
+        "question": "Which punctuation mark is used after an abbreviation like 'Dr.'?",
+        "options": [
+            "Comma",
+            "Full stop",
+            "Question mark",
+            "Exclamation mark"
+        ],
+        "correct": 1,
+        "explanation": "Abbreviations typically end with a full stop/period."
+    },
+    {
+        "questionNo": "Q5.",
+        "question": "Fill in the blank: A _________ mark is used at the end of a direct question. (! / ?)",
+        "options": [
+            "!",
+            "?"
+        ],
+        "correct": 1,
+        "explanation": "Question marks (?) are used to end direct questions."
+    },
+    {
+        "questionNo": "Q6.",
+        "question": "Fill in the blank: A _________ is used to indicate a short pause in a sentence. (comma / full stop)",
+        "options": [
+            "comma",
+            "full stop"
+        ],
+        "correct": 0,
+        "explanation": "Commas are often used to indicate brief pauses in sentences."
+    },
+    {
+        "questionNo": "Q7.",
+        "question": "A full stop can be used in the middle of a sentence.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "correct": 1,
+        "explanation": "Full stops are typically used at the end of sentences, not in the middle."
+    },
+    {
+        "questionNo": "Q8.",
+        "question": "A comma is always used to separate a city and state.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "correct": 0,
+        "explanation": "When writing addresses, a comma is used to separate the city and state."
+    },
+    {
+        "questionNo": "Q9.",
+        "question": "Fill in the blank: A _________ is used to separate the day from the year in a date. (exclamation mark / comma)",
+        "options": [
+            "exclamation mark",
+            "comma"
+        ],
+        "correct": 1,
+        "explanation": "In dates, a comma is used to separate the day from the year (e.g., July 4, 1776)."
+    },
+    {
+        "questionNo": "Q10.",
+        "question": "Which punctuation mark is used after a person's title and name?",
+        "options": [
+            "Full stop",
+            "Comma",
+            "Exclamation mark",
+            "Question mark"
+        ],
+        "correct": 0,
+        "explanation": "Titles with names are typically followed by a full stop (e.g., 'Mr. Smith')."
+    },
+    {
+        "questionNo": "Q11.",
+        "question": "The teacher asked, 'Who can tell me what comes at the end of a question _______' (. / ?)",
+        "options": [
+            ".",
+            "?"
+        ],
+        "correct": 1,
+        "explanation": "A question mark is used at the end of a direct question."
+    },
+    {
+        "questionNo": "Q12.",
+        "question": "After the long hike _______ we were all exhausted. (! / ,)",
+        "options": [
+            "!",
+            ","
+        ],
+        "correct": 1,
+        "explanation": "A comma is used after an introductory phrase."
+    },
+    {
+        "questionNo": "Q13.",
+        "question": "The movie ended _______ The credits began to roll. (, / .)",
+        "options": [
+            ",",
+            "."
+        ],
+        "correct": 1,
+        "explanation": "A full stop (period) is used to separate two complete sentences."
+    },
+    {
+        "questionNo": "Q14.",
+        "question": "Please bring the following items: pencils _______ paper, and erasers. (! / , / .)",
+        "options": [
+            "!",
+            ",",
+            "."
+        ],
+        "correct": 1,
+        "explanation": "Commas are used to separate items in a list."
+    },
+    {
+        "questionNo": "Q15.",
+        "question": "Are you coming to the party _______ (! / ?)",
+        "options": [
+            "!",
+            "?"
+        ],
+        "correct": 1,
+        "explanation": "A question mark is used at the end of a direct question."
+    },
+    {
+        "questionNo": "Q16.",
+        "question": "Which punctuation mark is used to separate items in an address?",
+        "options": [
+            "Full stop",
+            "Comma",
+            "Exclamation mark",
+            "Question mark"
+        ],
+        "correct": 1,
+        "explanation": "Commas are used to separate different parts of an address."
+    },
+    {
+        "questionNo": "Q17.",
+        "question": "What punctuation should be used at the end of this sentence: 'Please turn off the lights when you leave'",
+        "options": [
+            "Full stop",
+            "Comma",
+            "Exclamation mark",
+            "Question mark"
+        ],
+        "correct": 0,
+        "explanation": "This is a polite request or instruction, which typically ends with a full stop."
+    },
+    {
+        "questionNo": "Q18.",
+        "question": "What punctuation should be used at the end of this sentence: 'Do you know where the library is'",
+        "options": [
+            "Full stop",
+            "Comma",
+            "Exclamation mark",
+            "Question mark"
+        ],
+        "correct": 3,
+        "explanation": "This is a direct question, which should end with a question mark."
+    },
+    {
+        "questionNo": "Q19.",
+        "question": "What punctuation should be used at the end of this sentence: 'Be careful'",
+        "options": [
+            "Full stop",
+            "Comma",
+            "Exclamation mark",
+            "Question mark"
+        ],
+        "correct": 2,
+        "explanation": "This is a warning or command, which is often emphasised with an exclamation mark."
+    },
+    {
+        "questionNo": "Q20.",
+        "question": "What punctuation should be used at the end of this sentence: 'How dare you'",
+        "options": [
+            "Full stop",
+            "Comma",
+            "Exclamation mark",
+            "Question mark"
+        ],
+        "correct": 2,
+        "explanation": "This is an exclamatory statement expressing strong emotion, not a genuine question."
+    },
+    {
+        "questionNo": "Q21.",
+        "question": "Stop _______ Look _______ Listen _______",
+        "options": [
+            "! ! !",
+            "! . ?",
+            "! , !",
+            ", , ,"
+        ],
+        "correct": 0,
+        "explanation": "Exclamation marks are used for emphasis in short, forceful commands."
+    },
+    {
+        "questionNo": "Q22.",
+        "question": "The concert was loud _______ exciting _______ and unforgettable.",
+        "options": [
+            ", .",
+            ", ,",
+            "! .",
+            ", ?"
+        ],
+        "correct": 1,
+        "explanation": "Commas are used to separate adjectives in a series."
+    },
+    {
+        "questionNo": "Q23.",
+        "question": "Can you believe it _______ We won the championship _______",
+        "options": [
+            "! ?",
+            "? !",
+            ", !",
+            "? ,"
+        ],
+        "correct": 1,
+        "explanation": "A question mark is used for the question, and an exclamation mark for the excited statement."
+    },
+    {
+        "questionNo": "Q24.",
+        "question": "What punctuation should be used at the end of this sentence: 'How beautiful the sunset is'",
+        "options": [
+            "Full stop",
+            "Comma",
+            "Exclamation mark",
+            "Question mark"
+        ],
+        "correct": 2,
+        "explanation": "While this could be a question, it's more likely an exclamatory statement about the beauty of the sunset."
+    },
+    {
+        "questionNo": "Q25.",
+        "question": "Which punctuation mark is used after a direct address?",
+        "options": [
+            "Full stop",
+            "Comma",
+            "Exclamation mark",
+            "Question mark"
+        ],
+        "correct": 1,
+        "explanation": "A comma is used after a direct address (e.g., 'John, please come here.')."
+    }
+]
